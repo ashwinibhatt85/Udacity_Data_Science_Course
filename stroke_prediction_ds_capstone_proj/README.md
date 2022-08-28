@@ -32,4 +32,4 @@ The main findings of the code can be found at my Medium Blog post available [her
 Random Forest & Support Vector Machine estimator were found to be the best models by evaluating Time taken, Score and accuracy metrics. The final models achieved an Accuracy score of 95%. 
 
 ## Licensing, Authors, Acknowledgements, etc.
-I'd like to acknowledge Udacity for the project idea and workspace and @fedesoriano for providing this dataset for use.
+I'd like to acknowledge Udacity for the project idea and workspace and [@fedesoriano](https://www.kaggle.com/fedesoriano) for providing this dataset for use.
