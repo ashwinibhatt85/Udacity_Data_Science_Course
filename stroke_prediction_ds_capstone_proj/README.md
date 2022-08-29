@@ -28,7 +28,7 @@ Apart from this ReadMe file, there is one exploratory notebook showing my approa
 And also CSV file which is a Stroke Prediction Dataset from Kaggle.
 
 ## Medium Blog Post 
-The main findings of the code can be found at my Medium Blog post available [here](https://medium.com/@ashwinibhatt85/racial-predilections-of-sleep-apnea-a7772f8eee24) explaining the technical details of my project.
+The main findings of the code can be found at my Medium Blog post available [here](https://medium.com/@ashwinibhatt85/stroke-prediction-using-machine-learning-models-95-accuracy-682c92c1c68c) explaining the technical details of my project.
 Random Forest & Support Vector Machine estimator were found to be the best models by evaluating Time taken, Score and accuracy metrics. The final models achieved an Accuracy score of 95%. 
 
 ## Licensing, Authors, Acknowledgements, etc.
